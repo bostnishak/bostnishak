@@ -14,10 +14,9 @@ Computer Engineering student at Beykoz University (expected graduation: June 202
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bostnishak&show_icons=true&theme=transparent&hide_border=true" alt="Ishak's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bostnishak&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bostnishak&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="Ishak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bostnishak&layout=compact&theme=transparent&hide_border=true&hide=tex" alt="Top Languages" />
 </p>
-
 ---
 
 ### 💼 Featured Projects
