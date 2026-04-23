@@ -1,22 +1,23 @@
 # Hello, I am Ishak Bostan
 
-[cite_start]I am a Computer Engineering (English) student at Beykoz University[cite: 1, 2]. [cite_start]I am passionate about software development and continuously improving my skills in problem-solving, algorithm design, and analytical thinking[cite: 3, 4].
+Computer Engineering student at Beykoz University (expected graduation: June 2027) with a strong focus on artificial 
+intelligence and cybersecurity. Certified by Google in Cybersecurity and AI Fundamentals; Microsoft AI & ML Engineering. Actively seeking a summer internship or part-time junior engineer position to contribute to real-world projects and gain professional experience.
 
 ---
 
 ### What I Do
 
-* [cite_start]**Education:** Having completed my preparatory and foundational engineering courses, I aim to graduate in June 2027[cite: 2, 102].
-* [cite_start]**Web & Mobile Development:** I design modern web platforms using HTML, CSS, and JavaScript, and develop UI/UX-focused mobile applications using Flutter[cite: 3, 108, 110].
-* [cite_start]**Proactive Approach:** I focus on building user-friendly interfaces and flexible systems by anticipating potential issues in my projects[cite: 3, 131].
-* [cite_start]**Leadership and Teamwork:** I take on responsibilities such as making technical architectural decisions and delegating tasks, serving as both a team leader and a team member during development processes[cite: 121, 124, 128].
+* **Education:** Having completed my preparatory and foundational engineering courses, I aim to graduate in June 2027.
+* **Web & Mobile Development:** I design modern web platforms using HTML, CSS, and JavaScript, and develop UI/UX-focused mobile applications using Flutter.
+* **Proactive Approach:** I focus on building user-friendly interfaces and flexible systems by anticipating potential issues in my projects.
+* **Leadership and Teamwork:** I take on responsibilities such as making technical architectural decisions and delegating tasks, serving as both a team leader and a team member during development processes.
 
 ### Featured Projects
 
-* [cite_start]**Edulera - The Course Helper:** A comprehensive online education platform developed using HTML, CSS, and JavaScript[cite: 4, 108]. [cite_start]The system features video educational content, interactive quizzes, payment integration, and automated certificate generation modules based on user performance[cite: 1, 4].
-* [cite_start]**Walletly - Smart Expense Tracker:** A smart mobile application designed for personal finance management and expense tracking[cite: 1, 117]. [cite_start]I led the project team, made technical architectural decisions, and focused on UI/UX improvements[cite: 1, 122, 123].
-* [cite_start]**GIMBO - The Course Helper:** A mobile assistant application that organizes students' course tracking, notes, and tasks[cite: 1, 124]. [cite_start]As the team leader, I managed the technical guidance, user needs analysis, and design processes from start to finish[cite: 1, 125, 126].
-* [cite_start]**Pill Reminder:** A mobile application that allows users to track their medication schedules[cite: 1, 128]. [cite_start]I played an active role in code development, debugging, and module integration[cite: 1, 130, 132].
+* **Edulera - The Course Helper:** A comprehensive online education platform developed using HTML, CSS, and JavaScript. The system features video educational content, interactive quizzes, payment integration, and automated certificate generation modules based on user performance.
+* **Walletly - Smart Expense Tracker:** A smart mobile application designed for personal finance management and expense tracking. I led the project team, made technical architectural decisions, and focused on UI/UX improvements.
+* **GIMBO - The Course Helper:** A mobile assistant application that organizes students' course tracking, notes, and tasks. As the team leader, I managed the technical guidance, user needs analysis, and design processes from start to finish.
+* **Pill Reminder:** A mobile application that allows users to track their medication schedules. I played an active role in code development, debugging, and module integration.
 
 ### Skills & Technologies
 
@@ -40,11 +41,11 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
-* [cite_start]**Soft Skills:** Analytical Thinking, Detail Orientation, Flexibility and Adaptability, Team Leadership[cite: 3, 111].
-* [cite_start]**Languages:** English (C1-Advanced), German (A2-Elementary)[cite: 113].
-* [cite_start]**Certifications:** Google Cybersecurity and AI Fundamentals[cite: 1, 115].
+* **Soft Skills:** Analytical Thinking, Detail Orientation, Flexibility and Adaptability, Team Leadership.
+* **Languages:** Turkish(Native), English (C1-Advanced), German (A2-Elementary).
+* **Certifications:** Google Cybersecurity and AI Fundamentals.
 
 ### Contact Me
 
-* [cite_start]**Email:** [ishakbostan@gmail.com](mailto:ishakbostan@gmail.com) [cite: 100]
-* [cite_start]**LinkedIn:** [linkedin.com/in/ishakbostan](https://www.linkedin.com/in/ishakbostan) [cite: 100]
+* **Email:** [ishakbostan@gmail.com](mailto:ishakbostan@gmail.com)
+* **LinkedIn:** [linkedin.com/in/ishakbostan](https://www.linkedin.com/in/ishakbostan)
