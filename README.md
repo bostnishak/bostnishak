@@ -1,26 +1,26 @@
-# Merhaba, Ben İshak Bostan 👋
+# Hello, I am Ishak Bostan
 
-Beykoz Üniversitesi'nde Bilgisayar Mühendisliği (İngilizce) öğrencisiyim. Yazılım geliştirmeye tutkuyla bağlıyım; problem çözme, algoritma tasarımı ve analitik düşünme konularında kendimi sürekli geliştiriyorum.
+[cite_start]I am a Computer Engineering (English) student at Beykoz University[cite: 1, 2]. [cite_start]I am passionate about software development and continuously improving my skills in problem-solving, algorithm design, and analytical thinking[cite: 3, 4].
 
 ---
 
-### 🚀 Neler Yapıyorum?
+### What I Do
 
-* 🎓 **Eğitim:** Hazırlık ve temel mühendislik süreçlerimi tamamlayarak Haziran 2027'de mezun olmayı hedefliyorum.
-* 💻 **Web & Mobil Geliştirme:** HTML, CSS ve JavaScript ile modern web platformları; Flutter ile kullanıcı deneyimi (UI/UX) odaklı mobil uygulamalar tasarlıyorum.
-* 💡 **Proaktif Yaklaşım:** Projelerimde olası sorunları önceden öngörerek kullanıcı dostu arayüzler ve esnek sistemler kurgulamaya özen gösteriyorum.
-* 🤝 **Liderlik ve Takım Çalışması:** Geliştirme süreçlerinde hem takım lideri hem de takım üyesi olarak görev alıp, teknik mimari kararların alınması ve görev dağılımının yapılması gibi sorumlulukları üstleniyorum.
+* [cite_start]**Education:** Having completed my preparatory and foundational engineering courses, I aim to graduate in June 2027[cite: 2, 102].
+* [cite_start]**Web & Mobile Development:** I design modern web platforms using HTML, CSS, and JavaScript, and develop UI/UX-focused mobile applications using Flutter[cite: 3, 108, 110].
+* [cite_start]**Proactive Approach:** I focus on building user-friendly interfaces and flexible systems by anticipating potential issues in my projects[cite: 3, 131].
+* [cite_start]**Leadership and Teamwork:** I take on responsibilities such as making technical architectural decisions and delegating tasks, serving as both a team leader and a team member during development processes[cite: 121, 124, 128].
 
-### 💼 Öne Çıkan Projelerim
+### Featured Projects
 
-* 🎓 **Edulera - The Course Helper:** HTML, CSS ve JavaScript kullanılarak geliştirilen kapsamlı bir online eğitim platformu web sitesidir. Sistem; video eğitim içerikleri, interaktif quizler, ödeme entegrasyonu, admin/kurumsal panelleri ve başarıya bağlı otomatik sertifika üretim modüllerini barındırmaktadır.
-* 💰 **Walletly - Smart Expense Tracker:** Kişisel finans yönetimi ve harcama takibi için tasarlanan akıllı mobil uygulama. Proje ekibini yöneterek teknik mimari kararlarını aldım ve UI/UX iyileştirmelerine odaklandım.
-* 📚 **GIMBO - The Course Helper:** Öğrencilerin ders takibini, notlarını ve görevlerini düzenleyen mobil asistan uygulaması. Takım lideri olarak teknik yönlendirme, kullanıcı ihtiyaç analizi ve tasarım süreçlerini baştan sona yürüttüm.
-* 💊 **Pill Reminder:** Kullanıcıların ilaç alma zamanlarını takip etmelerini sağlayan mobil uygulama. Kod geliştirme, hata tespiti (debugging) ve modül entegrasyonlarında aktif rol oynadım.
+* [cite_start]**Edulera - The Course Helper:** A comprehensive online education platform developed using HTML, CSS, and JavaScript[cite: 4, 108]. [cite_start]The system features video educational content, interactive quizzes, payment integration, and automated certificate generation modules based on user performance[cite: 1, 4].
+* [cite_start]**Walletly - Smart Expense Tracker:** A smart mobile application designed for personal finance management and expense tracking[cite: 1, 117]. [cite_start]I led the project team, made technical architectural decisions, and focused on UI/UX improvements[cite: 1, 122, 123].
+* [cite_start]**GIMBO - The Course Helper:** A mobile assistant application that organizes students' course tracking, notes, and tasks[cite: 1, 124]. [cite_start]As the team leader, I managed the technical guidance, user needs analysis, and design processes from start to finish[cite: 1, 125, 126].
+* [cite_start]**Pill Reminder:** A mobile application that allows users to track their medication schedules[cite: 1, 128]. [cite_start]I played an active role in code development, debugging, and module integration[cite: 1, 130, 132].
 
-### 🛠️ Yetenekler & Teknolojiler
+### Skills & Technologies
 
-**Programlama Dilleri:**
+**Programming Languages:**
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -30,7 +30,7 @@ Beykoz Üniversitesi'nde Bilgisayar Mühendisliği (İngilizce) öğrencisiyim. 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
-**Araçlar & Teknolojiler:**
+**Tools & Technologies:**
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
@@ -40,10 +40,11 @@ Beykoz Üniversitesi'nde Bilgisayar Mühendisliği (İngilizce) öğrencisiyim. 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
-* **Kişisel Beceriler:** Analitik Düşünme, Detay Odaklılık, Esneklik ve Adaptasyon, Takım Liderliği.
-* **Yabancı Dil:** İngilizce (C1), Almanca (A2)
+* [cite_start]**Soft Skills:** Analytical Thinking, Detail Orientation, Flexibility and Adaptability, Team Leadership[cite: 3, 111].
+* [cite_start]**Languages:** English (C1-Advanced), German (A2-Elementary)[cite: 113].
+* [cite_start]**Certifications:** Google Cybersecurity and AI Fundamentals[cite: 1, 115].
 
-### 📫 Bana Ulaşın
+### Contact Me
 
-* 📧 **E-posta:** [ishakbostan@gmail.com](mailto:ishakbostan@gmail.com)
-* 💼 **LinkedIn:** [in/ishakbostan](https://www.linkedin.com/in/ishakbostan)
+* [cite_start]**Email:** [ishakbostan@gmail.com](mailto:ishakbostan@gmail.com) [cite: 100]
+* [cite_start]**LinkedIn:** [linkedin.com/in/ishakbostan](https://www.linkedin.com/in/ishakbostan) [cite: 100]
