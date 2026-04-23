@@ -1,25 +1,41 @@
-# Hello, I am Ishak Bostan
+# Hello, I am Ishak Bostan 👋
 
-Computer Engineering student at Beykoz University (expected graduation: June 2027) with a strong focus on artificial 
-intelligence and cybersecurity. Certified by Google in Cybersecurity and AI Fundamentals; Microsoft AI & ML Engineering. Actively seeking a summer internship or part-time junior engineer position to contribute to real-world projects and gain professional experience.
+Computer Engineering student at Beykoz University (expected graduation: June 2027) with a strong focus on artificial intelligence, cybersecurity, and enterprise-grade software development. Certified by Google in Cybersecurity and AI Fundamentals, and trained in Microsoft AI & ML Engineering. Actively seeking a summer internship or part-time junior engineer position to contribute to real-world projects and gain professional experience.
 
 ---
 
-### What I Do
+### 🎯 What I Do
 
-* **Education:** Having completed my preparatory and foundational engineering courses, I aim to graduate in June 2027.
-* **Web & Mobile Development:** I design modern web platforms using HTML, CSS, and JavaScript, and develop UI/UX-focused mobile applications using Flutter.
-* **Proactive Approach:** I focus on building user-friendly interfaces and flexible systems by anticipating potential issues in my projects.
-* **Leadership and Teamwork:** I take on responsibilities such as making technical architectural decisions and delegating tasks, serving as both a team leader and a team member during development processes.
+I actively build projects to explore new programming languages, frameworks, and hardware architectures, ensuring I stay aligned with industry standards.
 
-### Featured Projects
+### 💼 Featured Projects
 
-* **Edulera - The Course Helper:** A comprehensive online education platform developed using HTML, CSS, and JavaScript. The system features video educational content, interactive quizzes, payment integration, and automated certificate generation modules based on user performance.
-* **Walletly - Smart Expense Tracker:** A smart mobile application designed for personal finance management and expense tracking. I led the project team, made technical architectural decisions, and focused on UI/UX improvements.
-* **GIMBO - The Course Helper:** A mobile assistant application that organizes students' course tracking, notes, and tasks. As the team leader, I managed the technical guidance, user needs analysis, and design processes from start to finish.
-* **Pill Reminder:** A mobile application that allows users to track their medication schedules. I played an active role in code development, debugging, and module integration.
+#### ExpenseGuard | AI-Powered Enterprise Expense & Fraud Management
+*An enterprise-grade SaaS platform designed for B2B expense automation and financial fraud detection.*
+* **Backend & AI:** Developed a service-oriented architecture (SOA) using **.NET 9** and **FastAPI**. Integrated **OpenAI GPT-4 Vision** for OCR-based receipt processing and semantic fraud analysis.
+* **Data Security:** Implemented multi-tenant data isolation using **EF Core Global Query Filters** and symmetric encryption for sensitive financial data via **pgcrypto**.
+* **System Design:** Orchestrated asynchronous workflows with **RabbitMQ** and implemented high-performance caching for budget tracking using **Redis**.
+* **Mobile:** Built a **Flutter** application for field employees featuring real-time camera integration and OCR synchronization.
 
-### Skills & Technologies
+#### Edulera (LearnHub) | Online Education & Certification Platform
+*A web-based e-learning system with automated certification logic.*
+* **Core Logic:** Developed a dynamic evaluation module that generates either a "Participation" or "Success" certificate based on quiz performance.
+* **Full-Stack:** Designed the platform using HTML, CSS, and JavaScript with interactive dashboards and secure payment integration.
+
+#### OMDb Movie Application | Single Page Application (SPA)
+*A fully responsive movie search engine consuming the OMDb REST API.*
+* **Frontend:** Built a modular SPA using vanilla JavaScript to handle asynchronous data fetching and dynamic UI updates.
+* **State Persistence:** Integrated **LocalStorage** to maintain user search history across sessions, ensuring high usability and performance.
+
+#### GIMBO | The Course Helper
+*A mobile assistant application that organizes students' course tracking, notes, and tasks.*
+* **Project Management:** Directed the full development lifecycle as Team Leader, taking responsibility for user needs analysis, technical guidance, and task distribution from start to finish.
+
+#### Pill Reminder | Medication Tracking App
+*A mobile application that allows users to track their daily medication schedules.*
+* **Development & QA:** Played an active role in core code development, systematic debugging, and seamless module integration to ensure a stable technical workflow.
+
+### 🛠️ Skills & Technologies
 
 **Programming Languages:**
 <p align="left">
@@ -28,24 +44,29 @@ intelligence and cybersecurity. Certified by Google in Cybersecurity and AI Fund
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-**Tools & Technologies:**
+**Frameworks, Tools & Architecture:**
 <p align="left">
+  <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-* **Soft Skills:** Analytical Thinking, Detail Orientation, Flexibility and Adaptability, Team Leadership.
-* **Languages:** Turkish(Native), English (C1-Advanced), German (A2-Elementary).
-* **Certifications:** Google Cybersecurity and AI Fundamentals.
+* **Core Competencies:** Data Structures & Algorithms, RESTful APIs, Microservices, Problem Solving, Debugging, UI/UX Design, Agile Teamwork.
+* **Platforms & OS:** Windows, Linux, Logisim.
+* **Languages:** Turkish (Native), English (C1-Advanced), German (A2-Elementary).
+* **Certifications:** Google Cybersecurity, Google AI Fundamentals, Microsoft AI & ML Engineering.
 
-### Contact Me
+### 📫 Contact Me
 
 * **Email:** [ishakbostan@gmail.com](mailto:ishakbostan@gmail.com)
 * **LinkedIn:** [linkedin.com/in/ishakbostan](https://www.linkedin.com/in/ishakbostan)
