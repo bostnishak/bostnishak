@@ -1,4 +1,4 @@
-# Hello, I am Ishak Bostan 👋
+# Hello, I am Ishak Bostan 👋 
 
 Computer Engineering student at Beykoz University (expected graduation: June 2027) with a strong focus on artificial intelligence, cybersecurity, and enterprise-grade software development. Certified by Google in Cybersecurity and AI Fundamentals, and trained in Microsoft AI & ML Engineering. Actively seeking a summer internship or part-time junior engineer position to contribute to real-world projects and gain professional experience.
 
