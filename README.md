@@ -1,9 +1,19 @@
 # Hi there, I'm İshak Bostan 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ishakbostan.me-0052CC?style=flat-square&logo=google-chrome&logoColor=white)](https://ishakbostan.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fishakbostan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishakbostan)
-[![Email](https://img.shields.io/badge/Email-ishakbostan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ishakbostan@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-24292e?style=flat-square&logo=google-maps&logoColor=white)](https://goo.gl/maps/beykoz)
+<p align="left">
+  <a href="https://ishakbostan.me">
+    <img src="https://img.shields.io/badge/Portfolio-ishakbostan.me-0052CC?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ishakbostan">
+    <img src="https://img.shields.io/badge/LinkedIn-in%2Fishakbostan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ishakbostan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ishakbostan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://goo.gl/maps/beykoz">
+    <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-24292e?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  </a>
+</p>
 
 > **Software Test & Development Specialist** at [Merkad Makina](https://www.merkad.com.tr/) · **Ex-Product Development Intern** at [Etiya](https://www.etiya.com/) · **Computer Engineering Student** at [Beykoz University](https://www.beykoz.edu.tr/) (Graduation: June 2027)
 
@@ -115,8 +125,24 @@ Docker & Docker Compose · RabbitMQ · BullMQ · Nginx · Linux / Bash · Promet
 
 ### 📫 Contact & Socials
 
-* 🌐 **Portfolio Website:** [ishakbostan.me](https://ishakbostan.me)
-* 💼 **LinkedIn:** [linkedin.com/in/ishakbostan](https://linkedin.com/in/ishakbostan)
-* 🐙 **GitHub:** [github.com/bostnishak](https://github.com/bostnishak)
+<p align="left">
+  <a href="mailto:ishakbostan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ishakbostan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/ishakbostan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-in%2Fishakbostan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ishakbostan.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ishakbostan.me-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/bostnishak">
+    <img src="https://img.shields.io/badge/GitHub-bostnishak-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 * 📧 **Email:** [ishakbostan@gmail.com](mailto:ishakbostan@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/ishakbostan](https://linkedin.com/in/ishakbostan)
+* 🌐 **Portfolio Website:** [ishakbostan.me](https://ishakbostan.me)
+* 🐙 **GitHub:** [github.com/bostnishak](https://github.com/bostnishak)
 * 📍 **Location:** Istanbul / Beykoz, Turkey
+
