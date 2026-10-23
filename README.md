@@ -1,92 +1,122 @@
-# Hello, I am Ishak Bostan 👋 
+# Hi there, I'm İshak Bostan 👋
 
-Computer Engineering student at Beykoz University (expected graduation: June 2027) with a strong focus on artificial intelligence, cybersecurity, and enterprise-grade software development. Certified by Google in Cybersecurity and AI Fundamentals, and trained in Microsoft AI & ML Engineering. Actively seeking a summer internship or part-time junior engineer position to contribute to real-world projects and gain professional experience.
+[![Portfolio](https://img.shields.io/badge/Portfolio-ishakbostan.me-0052CC?style=flat-square&logo=google-chrome&logoColor=white)](https://ishakbostan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fishakbostan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishakbostan)
+[![Email](https://img.shields.io/badge/Email-ishakbostan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ishakbostan@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-24292e?style=flat-square&logo=google-maps&logoColor=white)](https://goo.gl/maps/beykoz)
+
+> **Software Test & Development Specialist** at [Merkad Makina](https://www.merkad.com.tr/) · **Ex-Product Development Intern** at [Etiya](https://www.etiya.com/) · **Computer Engineering Student** at [Beykoz University](https://www.beykoz.edu.tr/) (Graduation: June 2027)
 
 ---
 
-### 🎯 What I Do
+### 👨‍💻 About Me
 
-* **Proactive Engineering:** I actively build projects to explore new programming languages, frameworks, and hardware architectures, ensuring I stay aligned with industry standards and best practices.
-* **Architecture & Scalability:** I focus on designing service-oriented architectures (SOA) and microservices, utilizing modern message brokers and containerization to build scalable systems.
-* **Problem Solving:** I am dedicated to continuous improvement in algorithm design and analytical thinking, bridging the gap between academic theory and practical implementation.
+Computer Engineering student at Beykoz University (English) with a strong focus on **Artificial Intelligence, Cybersecurity, Distributed Systems, and Full-Stack Software Engineering**.
+
+* 🏢 **Current Role:** Software Test & Development Specialist at **Merkad Makina** (Aug 2026 – Present), engineering AI-driven automations, debugging industrial software systems, and streamlining critical engineering workflows.
+* 💼 **Corporate Experience:** Product Development Intern at **Etiya** (Jun 2026 – Aug 2026), contributing to telecom software products, build and deployment pipelines, module debugging, and agile teamwork.
+* 🏆 **Industry Certified:** Certified by **Google** in *Cybersecurity* & *AI Fundamentals*, and by **Microsoft** as a *Full-Stack Developer Professional*, *AI & ML Engineer*, and *SQL Server Specialist*.
+* 🚀 **Core Competencies:** Full-stack development, neuro-symbolic AI verification, spatial data engineering, high-throughput microservices, QA & test automation, and UI/UX design.
+
+---
+
+### 💼 Experience & Education
+
+| Period | Role / Degree | Organization / Institution | Key Focus & Scope |
+|:---|:---|:---|:---|
+| **Aug 2026 – Present** | **Software Test & Development Specialist** *(Full-Time)* | **Merkad Makina** | AI automation workflows, enterprise software QA, reliability debugging |
+| **Jun 2026 – Aug 2026** | **Product Development Intern** | **Etiya** | Telecom product development, build pipelines, enterprise debugging, Agile |
+| **Oct 2023 – Jun 2027** | **B.S. in Computer Engineering (English)** | **Beykoz University** | Data Structures, Algorithms, Distributed Computing, AI & Cybersecurity |
+
+---
+
+### 🚀 Featured Projects
+
+#### ⚡ [Neuro-Distilled Triage Mesh](https://github.com/bostnishak/Neuro-Distilled-Triage-Mesh)
+*Carrier-Grade Neuro-Symbolic Incident Triage Mesh fusing Knowledge Distillation, Active Deduplication (pgvector), and Deterministic Z3 Constraint Verification.*
+* **Sovereign AI Engine:** Deployed an **ONNX Runtime INT8** quantized distillation model, classifying mission-critical telecom incidents in `< 10ms` on CPU.
+* **Vector Deduplication:** Integrated **PostgreSQL / pgvector (HNSW indexing, cosine similarity)** to deduplicate concurrent storm incidents with a 0.88 semantic threshold.
+* **Formal Verification:** Implemented **Microsoft Z3 MaxSMT theorem prover** to mathematically guarantee compliance with shift-fatigue limits and blast-radius constraints before dispatch.
+* **Lock-Free IPC:** Developed a **C++20 SeqLock shared memory** ring buffer for zero-overhead, sub-microsecond cross-process telemetry streaming.
+
+#### 🗺️ [Sorun Bildirim Haritası](https://github.com/bostnishak/Sorun-Bildirme-Haritas-)
+*Civic Issue Reporting & Spatial Governance Platform (KVKK-Compliant, Production-Ready Architecture).*
+* **Spatial Routing:** Built on **Next.js (App Router)** and **Express/TypeScript** backed by **PostgreSQL + PostGIS**, using `ST_Within` polygon boundaries for multi-tenant municipal authority routing.
+* **AI Privacy Pipeline:** Implemented automated face detection (self-hosted model) and license plate blurring via **Google Vision API**, running asynchronously through **BullMQ** workers and **MinIO** object storage.
+* **Enterprise Reliability:** Integrated SLA compliance schedulers, HMAC-SHA256 signed webhooks with DLQ retries, Redis caching, and full **Prometheus / Grafana** observability.
+
+#### 📡 [Telco Project](https://github.com/bostnishak/telco-project)
+*Telecom BSS/OSS Analytics, Tariff Management & Automated Database Seeding Engine (i2i Systems Ecosystem).*
+* **Database Architecture:** Designed normalized telecom relational schemas on **Oracle XE**, featuring automated containerized seeding via **Docker Compose** and SQL scripts.
+* **High-Throughput Analytics:** Developed complex analytical SQL queries evaluating subscriber quota usage (Data, Voice, SMS), churn signals, and revenue leakages.
+* **Operational Reproducibility:** Built self-contained developer setups using DBeaver and containerized environments for zero-downtime schema migrations.
+
+#### 🛡️ [ExpenseGuard](https://github.com/bostnishak/ExpenseGuard)
+*AI-Powered Enterprise Expense & Financial Fraud Management Platform.*
+* **Microservices Architecture:** Multi-service backend utilizing **.NET 9**, **Node.js**, and **FastAPI** with asynchronous **RabbitMQ** event queues and **Redis** caching.
+* **Vision & NLP Fraud Detection:** Integrated **OpenAI GPT-4 Vision** for OCR receipt parsing, anomaly detection, and automated policy violation checks.
+* **Data Security:** Implemented tenant data isolation and field-level symmetric encryption using **pgcrypto** in **PostgreSQL**.
+
+<details>
+<summary>📂 <b>View More Projects (Mobile, Desktop & Utilities)</b></summary>
+<br>
+
+* **[GIMBO - Course Helper](https://github.com/bostnishak/Gimbo-The-Course-Helper-Mobile-Application-)**: Student academic tracking application. Led product lifecycle as Team Leader covering technical architecture, task breakdown, and UI/UX.
+* **[Pill Reminder App](https://github.com/bostnishak/Pill-Reminder-Project-2024-)**: Medication tracking mobile application built with **Flutter / Dart**, focusing on strict notification schedulers and clean UI flows.
+* **[Edulera Platform](https://github.com/bostnishak/Edulera-the-Course-Helper-Website)**: Interactive e-learning & dynamic certification platform built with vanilla **HTML5 / CSS3 / JavaScript**.
+* **[OMDb Movie SPA](https://github.com/bostnishak/omdb-project)**: Asynchronous Single Page Application consuming the OMDb REST API with LocalStorage caching.
+* **[Chat Application for PC](https://github.com/bostnishak/Chat-application-for-PC)**: Multi-threaded real-time TCP socket messaging desktop application in **Python**.
+</details>
+
+---
+
+### 📜 Certifications
+
+* 🏅 **Google Cybersecurity Professional Certificate** — *Google (March 2026)*
+* 🏅 **Microsoft Certified: Full-Stack Developer Professional** — *Microsoft / Coursera (August 2026)*
+* 🏅 **Microsoft AI & ML Engineering Certificate** — *Microsoft (April 2026)*
+* 🏅 **Microsoft SQL Server Certificate** — *Microsoft (May 2026)*
+* 🏅 **Google AI Essentials Certificate** — *Google (February 2026)*
+
+---
+
+### 🛠️ Technical Stack & Tools
+
+**Programming Languages:**
+```text
+C++20 · Python 3.12 · Java · JavaScript (ES6+) · TypeScript · C# · Dart · C · SQL · HTML5/CSS3
+```
+
+**Frameworks & Libraries:**
+```text
+FastAPI · .NET 9 · Node.js · Express · Next.js · React · Flutter · Prisma ORM · Z3 Theorem Prover
+```
+
+**Databases & Storage:**
+```text
+PostgreSQL (pgvector, PostGIS) · Oracle XE · Redis · Microsoft SQL Server · MinIO (S3-compatible) · Firebase
+```
+
+**DevOps, Cloud & Architecture:**
+```text
+Docker & Docker Compose · RabbitMQ · BullMQ · Nginx · Linux / Bash · Prometheus & Grafana · Git / GitHub Actions
+```
 
 ---
 
 ### 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bostnishak&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="Ishak's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bostnishak&layout=compact&theme=transparent&hide_border=true&hide=tex" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bostnishak&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="İshak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bostnishak&layout=compact&theme=transparent&hide_border=true&hide_title=false" alt="Top Languages" />
 </p>
 
 ---
 
-### 💼 Featured Projects
+### 📫 Contact & Socials
 
-#### [ExpenseGuard](https://github.com/bostnishak/ExpenseGuard) | AI-Powered Enterprise Expense & Fraud Management
-*An enterprise-grade SaaS platform designed for B2B expense automation and financial fraud detection.*
-* **Backend & AI:** Developed a service-oriented architecture (SOA) using **.NET 9**, **Node.js**, and **FastAPI**. Integrated **OpenAI GPT-4 Vision** for OCR-based receipt processing and semantic fraud analysis.
-* **Data Security:** Implemented multi-tenant data isolation and symmetric encryption for sensitive financial data via **pgcrypto** in **PostgreSQL**.
-* **System Design:** Orchestrated asynchronous workflows with **RabbitMQ** and implemented high-performance caching for budget tracking using **Redis**.
-* **Documentation:** Tested and documented robust API endpoints using **Swagger** and **Postman**.
-
-#### [Edulera](https://github.com/bostnishak/Edulera-the-Course-Helper-Website) | Online Education & Certification Platform
-*A web-based e-learning system with automated certification logic.*
-* **Core Logic:** Developed a dynamic evaluation module that generates either a "Participation" or "Success" certificate based on quiz performance.
-* **Full-Stack:** Designed the platform using **HTML**, **CSS**, and **JavaScript** with interactive dashboards and secure payment integration.
-
-#### [OMDb Movie Application](https://github.com/bostnishak/omdb-project) | Single Page Application (SPA)
-*A fully responsive movie search engine consuming the OMDb REST API.*
-* **Frontend:** Built a modular SPA using vanilla **JavaScript** to handle asynchronous data fetching and dynamic UI updates.
-* **Usability:** Integrated **LocalStorage** to maintain user search history across sessions, ensuring high usability and performance.
-
-#### [GIMBO](https://github.com/bostnishak/Gimbo-The-Course-Helper-Mobile-Application-) | The Course Helper
-*A mobile assistant application that organizes students' course tracking, notes, and tasks.*
-* **Project Management:** Directed the full development lifecycle as Team Leader, taking responsibility for user needs analysis, technical guidance, and task distribution.
-
-#### [Pill Reminder](https://github.com/bostnishak/Pill-Reminder-Project-2024-) | Medication Tracking App
-*A mobile application that allows users to track their daily medication schedules.*
-* **Development & QA:** Played an active role in core code development using **Flutter**, systematic debugging, and seamless module integration.
-
----
-
-### 🛠️ Skills & Technologies
-
-**Programming Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-</p>
-
-**Frameworks & Libraries:**
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter"/>
-</p>
-
-**Databases, Tools & Cloud:**
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
-</p>
-
----
-
-### 📫 Let's Connect
-
-* 📧 **Email:** [ishakbostan@gmail.com](mailto:ishakbostan@gmail.com)
+* 🌐 **Portfolio Website:** [ishakbostan.me](https://ishakbostan.me)
 * 💼 **LinkedIn:** [linkedin.com/in/ishakbostan](https://linkedin.com/in/ishakbostan)
+* 🐙 **GitHub:** [github.com/bostnishak](https://github.com/bostnishak)
+* 📧 **Email:** [ishakbostan@gmail.com](mailto:ishakbostan@gmail.com)
+* 📍 **Location:** Istanbul / Beykoz, Turkey
